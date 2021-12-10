@@ -74,4 +74,6 @@ console.log(capFirstLetter("i woke up early today"));
 
 //unique Value
 
-function unique(str) {}
+function unique(str) {
+  let values = [];
+}
